@@ -1,0 +1,84 @@
+{
+  "posted_hashes": [
+    "55668f646d7e66b83cbe95df5308fdd6",
+    "b11cf60b02c050221347c5faeff4fbcc",
+    "89608583858da4dc1c8da45124ccdc43",
+    "1fbcd3cb44c0dae205e56f7e3a9735af",
+    "f82b9147e771d51f048038a80c5edef5",
+    "b614e774ba7c68f0bf8a0a3e5158c30a",
+    "c272e79d2fc0f12c4ae558eda0400f90",
+    "055bb92b34b3c76d3c5ab050ffc1cc7f",
+    "bdec5db1a23c14cd7861222970759b4c",
+    "626fa84b383c34cb87a5f20a92dd8840",
+    "554af45b2db0158f007c6c0095657ae5"
+  ],
+  "failed_articles": [
+    {
+      "article": {
+        "title": "'Kusuriya no Hitorigoto' 3rd Season Airs in Split Cours, Gets Original Movie in December 2026",
+        "link": "https://myanimelist.net/news/73413353?_location=rss",
+        "summary": "The official website for the television anime adaptation of Natsu Hyuuga&#039;s Kusuriya no Hitorigoto (The Apothecary Diaries) light novel announced an original anime movie on Wednesday. The movie, featuring a completely new story by Hyuuga, is scheduled to premiere in December 2026. Norihiro Naganuma (Mahoutsukai no Yome) is returning to direct the movie. The official website also revealed a second anniversary promo and a super teaser visual (pictured right) for the third season. The third sea...",
+        "source": "https://myanimelist.net/rss/news.xml",
+        "quality_score": 9.2,
+        "anime_confidence": 1.0,
+        "hash": "55668f646d7e66b83cbe95df5308fdd6"
+      },
+      "timestamp": "2025-10-25T17:20:55.287976"
+    },
+    {
+      "article": {
+        "title": "'Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.' Reveals New Cast Pair, Winter 2026 Premiere",
+        "link": "https://myanimelist.net/news/73418945?_location=rss",
+        "summary": "The official website for the television anime adaptation of Suisei and Kairi&#039;s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&#039;s Party, so I Tried Confessing to Her.) manga revealed a pair of additional cast and key visual (pictured) on Friday. The anime series will premiere on January 6, 2026 at 11:00 p.m. on Tokyo MX, Hokkaido Broadcasting, RKB Mainichi Broadcasting, and BS11. Voice actresses Iori Noguchi (Class no Daikirai na Joshi to Ke...",
+        "source": "https://myanimelist.net/rss/news.xml",
+        "quality_score": 8.9,
+        "anime_confidence": 1.0,
+        "hash": "b11cf60b02c050221347c5faeff4fbcc"
+      },
+      "timestamp": "2025-10-25T17:21:11.294143"
+    },
+    {
+      "article": {
+        "title": "'Mahou no Shimai Lulutto Lilly' Announces Main Cast, Staff, Spring 2026 Premiere",
+        "link": "https://myanimelist.net/news/73410368?_location=rss",
+        "summary": "The official website of the Mahou no Shimai Lulutto Lilly (Magical Sisters Lulutto Lilly) original television anime revealed the main cast, staff, a teaser visual (pictured), and pilot film on Tuesday. The anime series will premiere in April 2026. Cast Rui Nonoyama: Nao Ojika (Boku no Kokoro no Yabai Yatsu) Fuu Nonoyama: May Tachibana (Honey Lemon Soda) Sena Aozono: Fuu Hirohara (Otonari ni Ginga) Touko Kandachi: Fuuka Izumi (Mahou Shoujo ni Akogarete) Azuki: Ai Kayano (Mushoku Tensei: Isekai It...",
+        "source": "https://myanimelist.net/rss/news.xml",
+        "quality_score": 8.9,
+        "anime_confidence": 1.0,
+        "hash": "89608583858da4dc1c8da45124ccdc43"
+      },
+      "timestamp": "2025-10-25T17:21:26.639387"
+    },
+    {
+      "article": {
+        "title": "Pokémon Horizons Anime Previews New Arc in Trailer",
+        "link": "https://www.animenewsnetwork.com/news/2025-10-24/pokemon-horizons-anime-previews-new-arc-in-trailer/.230287",
+        "summary": "New arc featuring Blueberry Academy begins on October 31",
+        "source": "https://www.animenewsnetwork.com/all/rss.xml",
+        "quality_score": 7.55,
+        "anime_confidence": 1.0,
+        "hash": "1fbcd3cb44c0dae205e56f7e3a9735af"
+      },
+      "timestamp": "2025-10-25T17:21:41.654187"
+    },
+    {
+      "article": {
+        "title": "Pokémon Horizons Anime Previews New Arc in Trailer",
+        "link": "https://www.animenewsnetwork.com/news/2025-10-24/pokemon-horizons-anime-previews-new-arc-in-trailer/.230287",
+        "summary": "New arc featuring Blueberry Academy begins on October 31",
+        "source": "https://www.animenewsnetwork.com/news/rss.xml",
+        "quality_score": 7.55,
+        "anime_confidence": 1.0,
+        "hash": "1fbcd3cb44c0dae205e56f7e3a9735af"
+      },
+      "timestamp": "2025-10-25T17:21:59.188459"
+    }
+  ],
+  "analytics": {
+    "total_posts": 11,
+    "posts_by_model": {
+      "llama-3.1-8b": 11
+    },
+    "last_run": "2025-10-25T20:54:13.716638"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "total_failures": 1,
+  "failure_log": [
+    {
+      "timestamp": "2025-10-25T21:00:46.794314",
+      "type": "retry_attempt",
+      "details": "Attempt 1: cannot access local variable 'article' where it is not associated with a value",
+      "retry_count": 1
+    },
+    {
+      "timestamp": "2025-10-25T21:00:49.946202",
+      "type": "retry_attempt",
+      "details": "Attempt 2: cannot access local variable 'article' where it is not associated with a value",
+      "retry_count": 2
+    },
+    {
+      "timestamp": "2025-10-25T21:00:53.315526",
+      "type": "retry_attempt",
+      "details": "Attempt 3: cannot access local variable 'article' where it is not associated with a value",
+      "retry_count": 3
+    },
+    {
+      "timestamp": "2025-10-25T21:00:58.301354",
+      "type": "retry_attempt",
+      "details": "Attempt 4: cannot access local variable 'article' where it is not associated with a value",
+      "retry_count": 4
+    },
+    {
+      "timestamp": "2025-10-25T21:01:07.428476",
+      "type": "retry_attempt",
+      "details": "Attempt 5: cannot access local variable 'article' where it is not associated with a value",
+      "retry_count": 5
+    }
+  ],
+  "last_updated": "2025-10-25T21:01:07.429062"
+}
